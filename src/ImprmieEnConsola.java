@@ -11,6 +11,7 @@ public class ImprmieEnConsola {
         final var nombre = ScannerManager.leerString(scanner, "Ingresa la nombre:");
         final var estatura = ScannerManager.leerDouble(scanner, "Ingresa la estatura:");
         final var estatur = ScannerManager.leerDouble(scanner, "Ingresa la estatura:");
+        final var estar = ScannerManager.leerDouble(scanner, "Ingresa la estatura:");
 
         scanner.close();
 
